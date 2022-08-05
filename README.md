@@ -8,6 +8,12 @@
   <a href="https://twitter.com/ogrebears">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/sugarbearcsa/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.twitch.tv/carchi8py">
+    <img src="https://img.shields.io/badge/6441a5?style=for-the-badge&logoColor=white" alt="instagram Badge"/>
+  </a>
 </div>  
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=carchi8py&style=flat-square&color=blue" alt=""/>
